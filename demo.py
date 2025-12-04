@@ -16,3 +16,5 @@ cv2.imshow("sliding window mask",mask)
 cv2.imshow("input image",img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+#hola
+#hola 
